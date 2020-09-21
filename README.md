@@ -8,3 +8,5 @@ Materiais utilizados:
 - 2 ESP32 LoRa TTGO SX1276 868/915MHZ, Display OLED e Bluetooth;
 - 2 antenas TX915-JZ-5 
 - Dois cabos USB vs Micro B para alimentar as placas.
+
+Os arquivos compactados contém os códigos utilizados no microcontrolador.
